@@ -165,7 +165,7 @@ class OffersGrid extends StatelessWidget {
           OfferCard(label: 'Gadgets & Appl... From ₹15,999/M'),
           OfferCard(label: 'Offers on Mobile\nExplore All'),
           OfferCard(label: "Women's Hygine\nUp to 30% Off"),
-          // Add more OfferCards as needed
+         
         ],
       ),
     );
